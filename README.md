@@ -19,5 +19,5 @@ Heya, i'm pestepota
 ## My other accounts
 - Email: `pestepota6milgrau@gmail.com`
 - Steam: [pestepota](https://steamcommunity.com/id/pestepota/)
-- Discord: [Pieste de la Pueta](https://www.instagram.com/pieste_de_a_pueta/)
-- Instagram: [pestepota](https://discord.com/users/625812991409127435/)
+- Instagram: [Pieste de la Pueta](https://www.instagram.com/pieste_de_a_pueta/)
+- Discord: [pestepota](https://discord.com/users/625812991409127435/)
