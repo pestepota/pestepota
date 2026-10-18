@@ -6,14 +6,14 @@ Heya, i'm pestepota
  I like to play games on my free time, my steam is one hell of a proof of that, but I also program sometimes, which is not a whole lot lol.
 
 ## What I have some experience in
- HTML
- CSS
- VSCODE
- JavaScript
+ HTML <br>
+ CSS <br>
+ VSCODE <br>
+ JavaScript <br>
  Somewhat a little of C++
 
 ## Some Personal Stats
-![pestepota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pestepota&show_icons=true&theme=dark)
+![pestepota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pestepota&show_icons=true&theme=dark) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pestepota&layout=compact&theme=dark)
 
 ## My other accounts
